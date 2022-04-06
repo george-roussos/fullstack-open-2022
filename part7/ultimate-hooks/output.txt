@@ -1,0 +1,1907 @@
+    1  pip3
+    2  git clone https://github.com/elrumo/macOS_Big_Sur_icons_replacements.git
+    3  git clone https://github.com/elrumo/macOS_Big_Sur_icons_replacements.git
+    4  ls
+    5  cd Downloads
+    6  curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
+    7  ls
+    8  cd
+    9  ls
+   10  ls
+   11  git clone https://github.com/dracula/iterm.git\n
+   12  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\n
+   13  brew install zsh
+   14  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   15  which-command cd
+   16  cd ..
+   17  cd .vscode
+   18  cd
+   19  cd ~/.vscode
+   20  open
+   21  open .
+   22  pwd
+   23  cd Downloads/Users/george.roussos
+   24  ls
+   25  cd
+   26  open .
+   27  cd Downloads/everything
+   28  ls
+   29  mv * /Users/georgeroussos/Library/Application\ Support/Code/User
+   30  open /Users/georgeroussos/Library/Application\ Support/Code/User
+   31  mv * /Users/georgeroussos/Library/Application\ Support/Code/User
+   32  cd ..
+   33  cd everything\ 2
+   34  ls
+   35  mv * /Users/georgeroussos/Library/Application\ Support/Code/User
+   36  cd Downloads
+   37  bash Miniconda3-latest-MacOSX-x86_64.sh
+   38  conda create -n everything python=3.8
+   39  conda activate everything
+   40  cd Downloads
+   41  pip install -r pip.txt
+   42  clear
+   43  pip install -r pip.txt
+   44  conda deactivate
+   45  cd
+   46  git clone https://github.com/jonasschmedtmann/complete-javascript-course.git
+   47  cd ..
+   48  ls
+   49  open .
+   50  node 
+   51  clear
+   52  conda deactivate
+   53  clear
+   54  npm -v
+   55  node -v
+   56  npm install live-server -g
+   57  sudo npm install live-server -g
+   58  npm audit fix --force
+   59  sudo npm audit fix --force
+   60  live-server
+   61  git clone https://github.com/george-roussos/guess-the-number.git
+   62  cd guess-the-number
+   63  ls
+   64  git add *
+   65  git commit
+   66  cd /Users/georgeroussos/Applications
+   67  ls
+   68  git config --global core.editor "/Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl -n -w"
+   69  cd
+   70  cd guess-the-number
+   71  git status
+   72  git commit
+   73  git config --global user.name "George Roussos"
+   74  git config --global user.email georroussos@gmail.com
+   75  git commit --amend --reset-author
+   76  git push origin main
+   77  git config --global user.email "25833833+george-roussos@users.noreply.github.com"
+   78  git commit --amend --reset-author
+   79  git push origin main
+   80  cd 
+   81  git clone https://github.com/adobe-fonts/source-code-pro.git
+   82  cd guess-the-number
+   83  ld
+   84  git checkout -b add-levels
+   85  ls
+   86  git add script.js
+   87  git commit
+   88  git add *
+   89  rm .DS_Store
+   90  git rm .DS_Store
+   91  git commit
+   92  git push origin main
+   93  git push origin add-levels
+   94  git checkout main
+   95  git pull
+   96  live-server
+   97  conda deactivate
+   98  conda activate dump
+   99  live-server
+  100  mkdir pig-game
+  101  cd pig-game
+  102  mkdir src
+  103  cd src
+  104  cd ..
+  105  touch README.md
+  106  open README.md
+  107  git status
+  108  rm .DS_Store
+  109  git add *
+  110  git remote add origin https://github.com/george-roussos/pig-game.git
+  111  cd ..
+  112  git remote add origin https://github.com/george-roussos/pig-game.git
+  113  cd pi
+  114  cd pig-game
+  115  git remote add origin https://github.com/george-roussos/pig-game.git
+  116  git init
+  117  git add  .
+  118  git commit
+  119  git push origin main
+  120  git push origin master
+  121  ls
+  122  git init
+  123  git push origin main
+  124  git push master
+  125  git push --set-upstream master master
+  126  cd ..
+  127  mkdir pig-game
+  128  git init
+  129  rm rf .git
+  130  rm -rf .git
+  131  cd pig-game
+  132  git init
+  133  git config --global init.defaultBranch main
+  134  git add .
+  135  git commit
+  136  git push origin main
+  137  git push origin master
+  138  git push origin main
+  139  git branch -M main
+  140  git remote add origin https://github.com/george-roussos/pig-game.git
+  141  git push -u origin main
+  142  rm .DS_Store
+  143  git add .
+  144  git commit
+  145  git push -u origin main
+  146  git checkout --orphan gh-pages
+  147  git rm -rf .
+  148  git commit --allow-empty -m "Init empty branch"
+  149  git push origin gh-pages
+  150  git checkout main
+  151  echo "dist/" >> .gitignore
+  152  git worktree add dist gh-pages
+  153  npm run build
+  154  cd ..
+  155  rm -rf pig-game
+  156  mkdir pig-game
+  157  cd pig-game
+  158  echo "# pig-game" >> README.md
+  159  ls
+  160  git init
+  161  git add .
+  162  git commit
+  163  git branch -M main
+  164  git remote add origin https://github.com/george-roussos/pig-game.git
+  165  git push -u origin main
+  166  mkdir source
+  167  mv *.png source
+  168  mv *.html source
+  169  mv *.css source
+  170  mv *.js source
+  171  git add .
+  172  git commit
+  173  git push -u origin main
+  174  git checkout -b gh-pages
+  175  ls
+  176  git checkout main
+  177  git branch -D gh-pages
+  178  ls
+  179  mv source/ src/
+  180  git add .
+  181  git commit
+  182  git push -u origin main
+  183  git checkout -b gh-pages
+  184  rm .DS_Store
+  185  git add .
+  186  git commit
+  187  git push -u origin gh-pages
+  188  live-server
+  189  cd guess-the-number
+  190  git status
+  191  git restore script.js
+  192  git pull
+  193  git status
+  194  git add script.js
+  195  git commit
+  196  git push -u origin main
+  197  clear
+  198  live-server
+  199  git clone https://github.com/ailsamm/75-hard-tracker
+  200  cd 75-hard-tracker
+  201  live-server
+  202  clear
+  203  live-server
+  204  clear
+  205  live-server
+  206  mkdir bank-app
+  207  echo "# bank-app" >> README.md
+  208  cd bank-app
+  209  echo "# bank-app" >> README.md
+  210  git init
+  211  git add README.md
+  212  git commit -m "first commit"
+  213  git branch -M main
+  214  git remote add origin https://github.com/george-roussos/bank-app.git
+  215  git push -u origin main
+  216  git status
+  217  git add .
+  218  git commit
+  219  git push -u origin main
+  220  live-server
+  221  cd bank-app
+  222  git add README.md
+  223  git commit
+  224  git push -u origin main
+  225  cd bank-app
+  226  git add script.js
+  227  git commit
+  228  git push -u origin main
+  229  cd bank-app
+  230  git add script.js
+  231  git commit
+  232  git push -u origin main
+  233  cd bank-app
+  234  git add script.js
+  235  git commit
+  236  git push -u origin main
+  237  cd bank-app
+  238  git add script.js
+  239  git commit
+  240  git push -u origin main
+  241  live-server
+  242  live-server
+  243  adb
+  244  brew install adb
+  245  brew install android-platform-tools
+  246  adb connect 192.168.1.116
+  247  adb shell
+  248  live-server
+  249  ssh join.5monkeys.se
+  250  ssh george@5join.5monkeys.se
+  251  ssh george@join.5monkeys.se
+  252  ssh join.5monkeys.se
+  253  live-server
+  254  npm
+  255  npm -v
+  256  clear
+  257  npm init
+  258  clea
+  259  clear
+  260  cd complete-javascript-course/17-Modern-JS-Modules-Tooling/
+  261  mkdir testFolder
+  262  cd testFolder
+  263  npm init
+  264  cd ..
+  265  npm init
+  266  clear
+  267  cd starter
+  268  npm init
+  269  npm install leadlet
+  270  npm install leaflet
+  271  clear
+  272  npm i lodash-es
+  273  npm i
+  274  npm i parcel --save-dev
+  275  clear
+  276  conda deactivate
+  277  npx parcel index.html
+  278  npm -i core-js
+  279  npm i core-js
+  280  npx parcel index.html
+  281  npm i regenerator-runtime
+  282  clear
+  283  cdls
+  284  cd ..
+  285  cd 13-Advanced-DOM-Bankist
+  286  git clone https://github.com/george-roussos/bankist.git
+  287  cd bankist
+  288  live-server
+  289  rm .DS_Store
+  290  git add *
+  291  git commit
+  292  git push -u origin main
+  293  fastboot
+  294  adb versio
+  295  adb version
+  296  adb
+  297  fastboot
+  298  fastboot --help
+  299  ls
+  300  cd 18-forkify
+  301  cd starter
+  302  npm init
+  303  npm i parcel -D
+  304  npm run start
+  305  fastboot devices
+  306  cd Downloads/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.2.9_v13-12-fastboot
+  307  ./macos_fastboot_first_install_with_data_format.sh
+  308  fastboot oem unlock
+  309  fastboot flashing unlock
+  310  fastboot reboot
+  311  cd 18-forkify/starter
+  312  npm i core-js regenerator-runtime
+  313  npm run start
+  314  npm install fractional
+  315  fastboot devices
+  316  cd Downloads
+  317  cd xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.2.9_v13-12-fastboot
+  318  ./macos_fastboot_first_install_with_data_format.sh
+  319  cd ..
+  320  ls
+  321  fastboot flash recovery twrp-3.5.2_10-0-gauguin.img
+  322  fastboot boot recovery
+  323  fastboot boot twrp-3.5.2_10-0-gauguin.img
+  324  ls
+  325  cd gauguin_global_images_V12.5.6.0.RJSMIXM_20211215.0000.00_11.0_global
+  326  ./macos_fastboot_first_install_with_data_format.sh
+  327  cd
+  328  cd Desktop
+  329  fastboot flash recovery PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  330  fastboot reboot
+  331  adb sideload PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.zip
+  332  cd
+  333  cd Downloads
+  334  adb sideload PixelExperience_gauguin-11.0-20220102-0922-OFFICIAL.zip
+  335  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  336  ./macos_fastboot_first_install_with_data_format.sh
+  337  cd ..
+  338  fastboot flash recovery twrp-3.5.2_10-0-gauguin-TeamWin.img
+  339  fastboot boot twrp-3.5.2_10-0-gauguin-TeamWin.img
+  340  adb devices
+  341  adb sideload xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V12.5.7.0.RJSCNXM_v12-11.zip
+  342  cd complete-javascript-course
+  343  ls
+  344  cd 18-forkify/starter
+  345  npm run start
+  346  cd Downloads
+  347  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  348  ls
+  349  ./macos_fastboot_first_install_with_data_format.sh
+  350  cd ..
+  351  ls
+  352  cd
+  353  cd Desktop
+  354  fastboot flash recovery PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  355  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  356  cd
+  357  cd Downloads
+  358  ls
+  359  adb sideload xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V12.5.7.0.RJSCNXM_v12-11.zip
+  360  cd
+  361  git clone https://github.com/Szaki/XiaomiADBFastbootTools.git
+  362  brew install adaptopenjdk\n
+  363  brew install adoptopenjdk\n
+  364  brew install temurin
+  365  alias ojava="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java"
+  366  cd Downloads
+  367  ojava -jar XiaomiADBFastbootTools.jar
+  368  temurin XiaomiADBFastbootTools.jar
+  369  temurin
+  370  cd /Library/Java/JavaVirtualMachines/
+  371  ls
+  372  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  373  ojava -jar XiaomiADBFastbootTools.jar
+  374  cd
+  375  cd Downloads
+  376  ojava -jar XiaomiADBFastbootTools.jar
+  377  cd Downloads
+  378  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  379  ls
+  380  ./macos_fastboot_first_install_with_data_format.sh
+  381  cd Downloads
+  382  ojava -jar XiaomiADBFastbootTools.jar
+  383  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  384  ojava -jar XiaomiADBFastbootTools.jar
+  385  cd Downloads
+  386  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  387  ojava -jar XiaomiADBFastbootTools.jar
+  388  npm run start
+  389  cd Downloads
+  390  cd gauguin_images_V12.5.6.0.RJSCNXM_20211025.0000.00_11.0_cn
+  391  ./macos_fastboot_first_install_with_data_format.sh
+  392  cd Downloads
+  393  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  394  ojava -jar XiaomiADBFastbootTools.jar
+  395  cd gauguin_in_global_images_V12.5.4.0.RJSINXM_20220111.0000.00_11.0_in
+  396  ./macos_fastboot_first_install_with_data_format.sh
+  397  cd ..
+  398  ojava -jar XiaomiADBFastbootTools.jar
+  399  npm run start
+  400  ls
+  401  cd complete-javascript-course/18-forkify/
+  402  cd starter
+  403  rm -rf .parcel-cache
+  404  rm -rf dist
+  405  npm run build
+  406  npm run start
+  407  rm -rf dist
+  408  rm -rf .parcel-cache
+  409  npm run build
+  410  rm -rf .parcel-cache
+  411  rm -rf dist
+  412  npm run start
+  413  rm -rf dist
+  414  rm -rf .parcel-cache
+  415  rm -rf dist
+  416  clear
+  417  npm run build
+  418  rm -rf dist
+  419  rm -rf .parcel-cache
+  420  npm run build
+  421  rm -rf .parcel-cache
+  422  rm -rf dist
+  423  npm run build
+  424  rm -rf dist
+  425  rm -rf .parcel-cache
+  426  npm run build
+  427  rm -rf .parcel-cache
+  428  rm -rf dist
+  429  npm run build
+  430  rm -rf .parcel-cache
+  431  rm -rf dist
+  432  npm install --global surge
+  433  sudo npm install --global surge
+  434  npm audit fix --force\n
+  435  npm fund
+  436  clear
+  437  ls
+  438  surge
+  439  clear
+  440  surge
+  441  surge delete
+  442  surge teardown george-forkify.surge.sh
+  443  rm -rf .parcel-cache
+  444  rm -rf dist
+  445  npm run build
+  446  cd dist
+  447  surge
+  448  cd dist
+  449  npm run start
+  450  cd a
+  451  ls
+  452  cd ..
+  453  cd
+  454  cd complete-javascript-course/18-forkify/starter
+  455  npm run build
+  456  cd ..
+  457  cd final
+  458  cd ..
+  459  cd final
+  460  npm run build
+  461  npm run start
+  462  npm run build
+  463  cd ..
+  464  cd starter
+  465  npm run start
+  466  cd ..
+  467  cd starter
+  468  ls
+  469  cd 18-forkify/starter
+  470  npm run start
+  471  cd complete-javascript-course/18-forkify/starter
+  472  rm .parcel-cache
+  473  rm dist
+  474  sudo npm run build
+  475  npm run start
+  476  git clone https://github.com/george-roussos/forkify.git
+  477  cd forkify
+  478  ls
+  479  cd complete-javascript-course/18-forkify
+  480  cd starter
+  481  ls
+  482  cp .prettierrc ../../../forkify
+  483  rm .DS_Store
+  484  git add *
+  485  git commit
+  486  git push -u origin main
+  487  git add README.md
+  488  git commit
+  489  git push -u origin main
+  490  git add README.md
+  491  git commit
+  492  git push -u origin main
+  493  rm */**/.DS_Store
+  494  git add *
+  495  git commit
+  496  git push -u origin main
+  497  open ./src/js/views/paginationView.js
+  498  git add ./src/js/views/paginationView.js
+  499  git commit
+  500  git push -u origin main
+  501  open ./src/js/views/paginationView.js
+  502  git add ./src/js/views/paginationView.js
+  503  git status
+  504  git add src/js/views/View.js
+  505  git status
+  506  git mv src/js/views/view.js src/js/views/View.js
+  507  git status
+  508  git commit
+  509  git push -u origin main
+  510  cd Downloads
+  511  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  512  git add ./src/js/views/paginationView.js
+  513  ./macos_fastboot_first_install_with_data_format.sh
+  514  cd Downloads
+  515  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  516  ojava -jar XiaomiADBFastbootTools.jar
+  517  adb devices
+  518  cd Desktop
+  519  fastboot flash recovery PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  520  adb kill server
+  521  adb
+  522  adb kill-server
+  523  adb
+  524  adb kill-server
+  525  fastboot devices
+  526  adb
+  527  adb devices
+  528  fastboot
+  529  fastboot --help
+  530  fastboot devices
+  531  cd
+  532  cd Desktop
+  533  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  534  adb sideload Magisk-v21.2.zip
+  535  ojava -jar XiaomiADBFastbootTools.jar
+  536  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  537  ojava -jar XiaomiADBFastbootTools.jar
+  538  adb devices
+  539  adb wait-for-device shell magisk --remove-modules
+  540  cd
+  541  cd Downloads
+  542  cd gauguin_global_images_V12.5.6.0.RJSMIXM_20211215.0000.00_11.0_global
+  543  ./macos_fastboot_first_install_with_data_format.sh
+  544  cd
+  545  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  546  cd Downloads
+  547  ojava -jar XiaomiADBFastbootTools.jar
+  548  cd
+  549  cd Desktop
+  550  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  551  ls
+  552  cd
+  553  cd Desktop
+  554  ls
+  555  cd
+  556  cd Downloads
+  557  ls
+  558  adb sideload Magisk-v21.2.zip
+  559  adb wait-for-device shell magisk --remove-modules
+  560  cd Downloads
+  561  cd gauguin_images_V12.5.6.0.RJSCNXM_20211025.0000.00_11.0_cn
+  562  ./macos_fastboot_first_install_with_data_format.sh
+  563  cd
+  564  cd Downloads
+  565  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  566  ojava -jar XiaomiADBFastbootTools.jar
+  567  cd
+  568  cd Desktop
+  569  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  570  adb sideload Magisk-v21.2.zip
+  571  cd
+  572  cd Downloads
+  573  adb sideload Magisk-v21.2.zip
+  574  cd gauguin_tw_global_images_V12.5.2.0.RJSTWXM_20211129.0000.00_11.0_global
+  575  ./macos_fastboot_first_install_with_data_format.sh
+  576  cd 
+  577  cd Desktop
+  578  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  579  cd ..
+  580  adb sideload miui_GAUGUINPRE_22.2.23_877d8280e8_12.0.zip
+  581  cd gauguin_images_21.1.11_20210112.0000.00_11.0_cn
+  582  ./macos_fastboot_first_install_with_data_format.sh
+  583  cd
+  584  cd Desktop
+  585  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  586  ojava -jar XiaomiADBFastbootTools.jar
+  587  cd
+  588  cd Downloads
+  589  ojava -jar XiaomiADBFastbootTools.jar
+  590  cd Desktop
+  591  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  592  adb sideload miui_GAUGUINPRE_22.2.17_8c67ac2e00_12.0.zip
+  593  cd gauguin_in_global_images_V12.5.4.0.RJSINXM_20220111.0000.00_11.0_in
+  594  ./macos_fastboot_first_install_with_data_format.sh
+  595  cd
+  596  cd Desktop
+  597  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  598  cd
+  599  cd Downloads
+  600  adb sideload Magisk-v21.2.zip
+  601  cd gauguin_images_V12.5.6.0.RJSCNXM_20211025.0000.00_11.0_cn
+  602  ./macos_fastboot_first_install_with_data_format.sh
+  603  cd
+  604  cd Downloads
+  605  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  606  ojava -jar XiaomiADBFastbootTools.jar
+  607  cd ..
+  608  ls
+  609  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  610  ls
+  611  ./macos_fastboot_first_install_with_data_format.sh
+  612  ojava -jar XiaomiADBFastbootTools.jar
+  613  cd
+  614  cd Desktop
+  615  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  616  cd 
+  617  cd Downloads
+  618  adb sideload Magisk-v21.2.zip
+  619  cd Desktop
+  620  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  621  cd
+  622  cd Downloads
+  623  adb sideload TWRP_MIUI_Icons-PACK_v1.22.zip
+  624  fastboot flash recovery twrp-3.5.2_10-0-gauguin.img
+  625  fastboot boot twrp-3.5.2_10-0-gauguin.img
+  626  fastboot format userdata
+  627  fastboot format cache
+  628  fastboot reboot
+  629  fastboot boot twrp-3.5.2_10-0-gauguin.img
+  630  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  631  ./macos_fastboot_first_install_with_data_format.sh
+  632  cd
+  633  cd Desktop
+  634  cd
+  635  cd Do
+  636  cd Downloads
+  637  cd
+  638  cd Desktop
+  639  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  640  cd
+  641  cd Downloads
+  642  adb sideload xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V12.5.7.0.RJSCNXM_v12-11.zip
+  643  adb devices
+  644  ojava -jar XiaomiADBFastbootTools.jar
+  645  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  646  ojava -jar XiaomiADBFastbootTools.jar
+  647  cd De
+  648  cd
+  649  cd Desktop
+  650  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  651  cd
+  652  cd Downloads
+  653  adb sideload Magisk-v21.2.zip
+  654  ojava -jar XiaomiADBFastbootTools.jar
+  655  git clone https://github.com/jonasschmedtmann/html-css-course.git
+  656  ls
+  657  cd starter
+  658  ls
+  659  cd 02-HTML-Fundamentals
+  660  ls
+  661  live-server
+  662  cd Downloads
+  663  ls
+  664  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  665  ./macos_fastboot_first_install_with_data_format.sh
+  666  cd
+  667  cd html-css-course/starter/02-HTML-Fundamentals
+  668  ls
+  669  mkdir img
+  670  mv *.jpg img
+  671  live-server
+  672  cd ..
+  673  live-server
+  674  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  675  cd Downloads
+  676  ojava -jar XiaomiADBFastbootTools.jar
+  677  unzip xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V12.5.7.0.RJSCNXM_v12-11.zip
+  678  cd Desktop
+  679  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  680  adb sideload MIUIWIDGETS\ v3.1\ .zip
+  681  cd Downloads
+  682  unzip TWRP_
+  683  unzip TWRP_Template.zip
+  684  unzip MIUIWIDGETS\ v3.1\ .zip
+  685  cd
+  686  cd Downloads
+  687  mkdir ss
+  688  mv system/ ss
+  689  mv META-INF ss
+  690  cd ss
+  691  ls
+  692  zip -r my_pack.zip
+  693  zip -r my_pack.zip .
+  694  cd Desktop
+  695  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  696  adb sideload my_pack.zip
+  697  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  698  ls
+  699  cd system
+  700  ls
+  701  cd priv-app
+  702  ls
+  703  adb push MiuiPersonalAssistant system/priv-app
+  704  cd
+  705  cd Desktop
+  706  ls
+  707  cd
+  708  cd Downloads
+  709  adb sideload Magisk-v21.2.zip
+  710  fastboot reboot
+  711  adb wait-for-device shell magisk --remove-modules
+  712  tar -xvzf gauguin_global_images_V12.5.5.0.RJSMIXM_20211213.0000.00_11.0_global_e058fc500c
+  713  ls gauguin_global_images_V12.5.6.0.RJSMIXM_20211215.0000.00_11.0_global
+  714  gauguin_global_images_V12.5.6.0.RJSMIXM_20211215.0000.00_11.0_global
+  715  ./macos_fastboot_first_install_with_data_format.sh
+  716  cd ..
+  717  cd gauguin_in_global_images_V12.5.4.0.RJSINXM_20220111.0000.00_11.0_in
+  718  ./macos_fastboot_first_install_with_data_format.sh
+  719  fastboot reboot
+  720  cd
+  721  cd Desktop
+  722  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  723  cd
+  724  cd Downloads
+  725  adb sideload xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V12.5.7.0.RJSCNXM_v12-11.zip
+  726  cd Downloads
+  727  ojava -jar XiaomiADBFastbootTools.jar
+  728  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  729  ojava -jar XiaomiADBFastbootTools.jar
+  730  cd Downloads
+  731  cd gauguin_eea_global_images_V12.5.10.0.RJSEUXM_20220112.0000.00_11.0_eea
+  732  ./macos_fastboot_first_install_with_data_format.sh
+  733  cd ..
+  734  ./macos_fastboot_first_install_with_data_format.sh
+  735  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+  736  ojava -jar XiaomiADBFastbootTools.jar
+  737  live-server
+  738  cd Desktop
+  739  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+  740  cd
+  741  cd Downloads
+  742  adb sideload lineage-18.1-20220228-nightly-gauguin-signed.zip
+  743  adb sideload open_gapps-arm64-11.0-nano-20220215.zip
+  744  live-server
+  745  cd ~/.Trash/*
+  746  cd ~/.Trash
+  747  sudo rm -rf *
+  748  ls
+  749  ls
+  750  sudo rm *
+  751  sudo rm -r
+  752  sudo rm -r *
+  753  cd
+  754  cd Dow
+  755  ls
+  756  cd Downloads
+  757  ls
+  758  rm -rf xiaomi*
+  759  sudo rm -rf miui_GAUGUIN*
+  760  ls
+  761  rm gauguin_in_global*
+  762  rm -rf gauguin_in_global*
+  763  sudo rm -rf gauguin*
+  764  clear
+  765  cd
+  766  cd ~/.Trash
+  767  ls
+  768  ls
+  769  sudo ls
+  770  cd
+  771  ls
+  772  -rf ~/.Trash/*
+  773  -rf ~/.Trash/
+  774  -rf ~/.Trash/*
+  775  sudo rm -rf ~/.Trash/*
+  776  live-server
+  777  react
+  778  npx create-react-app my-app
+  779  npm install -g npm@8.5.3
+  780  sudo npm install -g npm@8.5.3
+  781  clear
+  782  rm -rf my-app
+  783  npx create-react-app my-app
+  784  cd my-app
+  785  npm start
+  786  cd
+  787  mkdir react-course
+  788  cd react-course
+  789  npx create-react-app components
+  790  cd components
+  791  npm start
+  792  npm install faker@5.5.3\n
+  793  npm start
+  794  cd
+  795  npx create-react-app seasons
+  796  cd seasons
+  797  npm start
+  798  cd
+  799  git clone https://github.com/george-roussos/fullstack-open-2022.git
+  800  cd fullstack-open-2022
+  801  mkdir part1
+  802  npx create-react-app fundamentals
+  803  cd fundamentals
+  804  npm start
+  805  ls
+  806  cd ..
+  807  ls
+  808  git add fundamentals/
+  809  cd ..
+  810  ls
+  811  git commit
+  812  git push -u origin main
+  813  ls
+  814  cd part1
+  815  ls
+  816  cd fundamentals
+  817  ls
+  818  cd src
+  819  ld
+  820  ls
+  821  git rm Content.js
+  822  git rm Header.js
+  823  git rm Total.js
+  824  git add *
+  825  git commit
+  826  git push -u origin main
+  827  cd
+  828  cd seasons
+  829  npm start
+  830  cd ..
+  831  mkdir unicafe
+  832  cd unicafe
+  833  npx create-react-app unicafe
+  834  cd unicafe
+  835  npm start
+  836  cd ..
+  837  ls
+  838  npx create-react-app anecdotes
+  839  ls
+  840  mv * ../fullstack-open-2022/part1
+  841  ls
+  842  cd
+  843  cd fullstack-open-2022
+  844  ls
+  845  cd part1
+  846  ls
+  847  cp unicafe/src/index.js anecdotes/src
+  848  npm start
+  849  cd anecdotes
+  850  npm start
+  851  cp fullstack-open-2022/part1/unicafe/src/Button.js fullstack-open-2022/part1/anecdotes/src
+  852  cd fullstack-open-2022/part1
+  853  ls
+  854  git add unicafe/
+  855  ls
+  856  rm unicafe/.git
+  857  rm -rf unicafe/.git
+  858  rm -rf anecdotes/.git
+  859  git add anecdotes/
+  860  git commit
+  861  git reset *
+  862  cd
+  863  cd Desktop
+  864  ls
+  865  cp unicafe ../fullstack-open-2022/part1
+  866  cp -r unicafe ../fullstack-open-2022/part1
+  867  cp -r anecdotes ../fullstack-open-2022/part1
+  868  git add unicafe/
+  869  git add anecdotes/
+  870  git commit
+  871  git push origin gh-pages
+  872  git push origin main
+  873  cd
+  874  cd react-course
+  875  ls
+  876  npx create-react-app pics
+  877  cd pics
+  878  npm start
+  879  npm install --save axios
+  880  npm start
+  881  cd ..
+  882  npx create-react-app videos
+  883  cd videos
+  884  npm start
+  885  cd ..
+  886  npx create-react-app widgets
+  887  cd widgets
+  888  npm start
+  889  npm install --save axios
+  890  npm start
+  891  cd fullstack-open-2022
+  892  ls
+  893  mkdir part2
+  894  cd part
+  895  cd part2
+  896  npx create-react-app courseinfo
+  897  cd courseinfo
+  898  npm start
+  899  clear
+  900  npm start
+  901  npx create-react-app notes
+  902  cd ..
+  903  npx create-react-app notes
+  904  ls
+  905  rm -rf notes
+  906  git clone https://github.com/fullstack-hy2020/part2-notes.git
+  907  ls
+  908  mv part2-notes notes
+  909  ls
+  910  cd notes
+  911  ls
+  912  rm .git*
+  913  rm -rf .git*
+  914  npm start
+  915  ls
+  916  npm start
+  917  ls
+  918  cd ..
+  919  rm -rf notes
+  920  npx create-react-app notes
+  921  npm start
+  922  cd notes
+  923  npm start
+  924  ls
+  925  cd ..
+  926  ls
+  927  npx create-react-app phonebook
+  928  cd phonebook
+  929  npm start
+  930  cp Desktop/phonebook fullstack-open-2022/part2/
+  931  cp - rDesktop/phonebook fullstack-open-2022/part2/
+  932  cp -r Desktop/phonebook fullstack-open-2022/part2/
+  933  npm start
+  934  cd ..
+  935  cd notes
+  936  npm start
+  937  sudo npm install -g json-server
+  938  npm start
+  939  cd fullstack-open-2022/part2/notes
+  940  npx json-server --port 3001 --watch db.json
+  941  la
+  942  ls
+  943  mv src/db.json .
+  944  npx json-server --port 3001 --watch db.json
+  945  ls
+  946  nano .json
+  947  less db.json
+  948  clear
+  949  npx json-server --port 3001 --watch db.json
+  950  npx json-server --port 3002 --watch db.json
+  951  npm install axios
+  952  npm start
+  953  npm install json-server --save-dev
+  954  npm start
+  955  cd ..
+  956  cd phonebook
+  957  npm run server
+  958  cd ..
+  959  cd phonebook
+  960  npm run server
+  961  npm start
+  962  npm install axios
+  963  npm install json-server --save-dev
+  964  nano db.json
+  965  clear
+  966  npm start
+  967  npm run server
+  968  less db.json
+  969  npm run server
+  970  cd ..
+  971  mkdir countries
+  972  rm countries
+  973  rm -rf countries
+  974  npx create-react-app countries
+  975  cd countries
+  976  npm install axios
+  977  npm run server
+  978  npm start
+  979  REACT_APP_API_KEY='9cfbbdc4a4500ff45f5ddc28c030c5ed' npm start
+  980  cd ..
+  981  cd notes
+  982  npm start
+  983  cd fullstack-open-2022/part2/notes
+  984  npm run server
+  985  cd ..
+  986  cd phonebook
+  987  cd ..
+  988  cd phonebook
+  989  npm run server
+  990  npm start
+  991  cd ..
+  992  cd notes
+  993  cd ..
+  994  cd notes
+  995  npm start
+  996  npm run server
+  997  cd ..
+  998  cd phonebook
+  999  npm start
+ 1000  ls
+ 1001  cd ..
+ 1002  cd phonebook
+ 1003  npm run server
+ 1004  ls
+ 1005  cd ..
+ 1006  ls
+ 1007  cd ..
+ 1008  cd part2
+ 1009  ls
+ 1010  mv notes ../../Desktop
+ 1011  ls
+ 1012  cd ..
+ 1013  git add part2/
+ 1014  git commit
+ 1015  git push origin main
+ 1016  nove -v
+ 1017  node -v
+ 1018  cd fullstack-open-2022
+ 1019  ls
+ 1020  mkdir part3
+ 1021  mkdir hello
+ 1022  cd hello
+ 1023  npm init
+ 1024  ls
+ 1025  cd ..
+ 1026  ls
+ 1027  cd
+ 1028  cd Desktop
+ 1029  cp notes ../fullstack-open-2022/part3
+ 1030  cp -r notes ../fullstack-open-2022/part3
+ 1031  cd ../fullstack-open-2022/part3
+ 1032  ls
+ 1033  mkdir hello
+ 1034  cd hello
+ 1035  ls
+ 1036  npm init
+ 1037  nano package.json
+ 1038  nano index.js
+ 1039  node index.js
+ 1040  npm start
+ 1041  npm install express
+ 1042  npm start
+ 1043  ls
+ 1044  npm start
+ 1045  npm run server
+ 1046  npm start
+ 1047  node 
+ 1048  node index.js
+ 1049  npm start
+ 1050  npm install --save-dev nodemon
+ 1051  npm start
+ 1052  npm run dev
+ 1053  node_modules/.bin/nodemon index.js
+ 1054  npm run dev
+ 1055  ls
+ 1056  cd ..
+ 1057  ls
+ 1058  mkdir phonebook
+ 1059  cd phonebook
+ 1060  npm install --save-dev nodemon
+ 1061  npm install express
+ 1062  npm init
+ 1063  npm install express
+ 1064  npm install --save-dev nodemon
+ 1065  npm run dev
+ 1066  npm install morgan
+ 1067  npm run dev
+ 1068  cd fullstack-open-2022/part2/phonebook
+ 1069  npm start
+ 1070  npm install cors
+ 1071  npm start
+ 1072  npm run dev
+ 1073  cd fullstack-open-2022/part3/phonebook
+ 1074  nano Procfile
+ 1075  git init
+ 1076  ls
+ 1077  nano .gitignore
+ 1078  npm install -g heroku
+ 1079  sudo npm install -g heroku
+ 1080  heroku create
+ 1081  ls
+ 1082  git status
+ 1083  git add *
+ 1084  git commit
+ 1085  git push heroku main
+ 1086  cd fullstack-open-2022/part2/phonebook
+ 1087  rm -rf package-lock.json
+ 1088  rm -rf node_modules
+ 1089  npm cache clean --force
+ 1090  sudo chown -R 501:20 "/Users/georgeroussos/.npm"
+ 1091  npm cache clean --force
+ 1092  npm install
+ 1093  npm start
+ 1094  ls
+ 1095  npm run build
+ 1096  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1097  npm run build
+ 1098  ls
+ 1099  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1100  ls
+ 1101  npm run dev
+ 1102  ls
+ 1103  git add build/
+ 1104  git commit
+ 1105  git push heroku main
+ 1106  git status
+ 1107  git add index.js
+ 1108  git push heroku main
+ 1109  git commit
+ 1110  git push heroku main
+ 1111  npm install mongoose
+ 1112  ls
+ 1113  touch mongo.js
+ 1114  node mongo.js
+ 1115  node mongo.js DGcRtVMhWyPQjNM7 george 1234
+ 1116  clear
+ 1117  node mongo.js DGcRtVMhWyPQjNM7 george 1234
+ 1118  node mongo.js DGcRtVMhWyPQjNM7
+ 1119  clear
+ 1120  node mongo.js DGcRtVMhWyPQjNM7
+ 1121  clear
+ 1122  node mongo.js DGcRtVMhWyPQjNM7
+ 1123  npm run dev
+ 1124  npm run dev MONGODB_URI=mongodb+srv://georroussos:DGcRtVMhWyPQjNM7@cluster0.meh6u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+ 1125  npm run dev MONGODB_URI="mongodb+srv://georroussos:DGcRtVMhWyPQjNM7@cluster0.meh6u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+ 1126  MONGODB_URI="mongodb+srv://georroussos:DGcRtVMhWyPQjNM7@cluster0.meh6u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" npm run dev
+ 1127  npm install dotenv
+ 1128  nano .env
+ 1129  nano .gitignore
+ 1130  npm run dev
+ 1131  heroku config:set MONGODB_URI="mongodb+srv://georroussos:DGcRtVMhWyPQjNM7@cluster0.meh6u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+ 1132  npm run dev
+ 1133  cd fullstack-open-2022/part2/phonebook
+ 1134  npm run build
+ 1135  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1136  npm run dev
+ 1137  npm run build
+ 1138  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1139  npm run dev
+ 1140  npm run build
+ 1141  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1142  npm run dev
+ 1143  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1144  npm run dev
+ 1145  npm run build
+ 1146  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1147  npm run dev
+ 1148  npm run build
+ 1149  cp -r build /Users/georgeroussos/fullstack-open-2022/part3/phonebook/
+ 1150  npm run dev
+ 1151  npm install eslint --save-dev
+ 1152  npx eslint --init
+ 1153  npx eslint index.js
+ 1154  npm run dev
+ 1155  ls
+ 1156  git add *
+ 1157  git commit
+ 1158  git push heroku main
+ 1159  cd ..
+ 1160  ls
+ 1161  cd ..
+ 1162  mv -r part3 /Users/georgeroussos/Desktop
+ 1163  mv -rf part3 /Users/georgeroussos/Desktop/
+ 1164  mv part3 /Users/georgeroussos/Desktop/
+ 1165  ls
+ 1166  mkdir part3
+ 1167  cd
+ 1168  cd Desktop
+ 1169  ls
+ 1170  cp -r part3/phonebook ../fullstack-open-2022/part3
+ 1171  ls
+ 1172  cd part3
+ 1173  ls
+ 1174  cd phonebook
+ 1175  ls
+ 1176  ls .gitignore
+ 1177  less .gitignore
+ 1178  rm *git
+ 1179  rm *git*
+ 1180  ls
+ 1181  cd ..
+ 1182  git add part3/
+ 1183  git rm --cached part3/phonebook
+ 1184  git rm --cached part3/phonebook -f
+ 1185  ls
+ 1186  cd part3
+ 1187  ls
+ 1188  rm *git*
+ 1189  ls
+ 1190  cd phonebook
+ 1191  ls
+ 1192  rm *git*
+ 1193  rm -Rf .git
+ 1194  cd ..
+ 1195  rm -Rf .git
+ 1196  git add*
+ 1197  git add *
+ 1198  cd .
+ 1199  cd ..
+ 1200  git add *
+ 1201  git commit
+ 1202  git rm --cached part2/ -f
+ 1203  git rm -r --cached part2/ -f
+ 1204  git status
+ 1205  ls
+ 1206  cd ..
+ 1207  mv fullstack-open-2022 fullstack-open-2022-br
+ 1208  git clone https://github.com/george-roussos/fullstack-open-2022.git
+ 1209  ls
+ 1210  cd fullstack-open-2022-br
+ 1211  ls
+ 1212  mv part3 ../fullstack-open-2022/
+ 1213  cd 
+ 1214  cd fullstack-open-2022
+ 1215  git add part3/
+ 1216  git commit
+ 1217  git push origin main
+ 1218  cd ..
+ 1219  ls
+ 1220  cd fullstack-open-2022
+ 1221  mkdir part4
+ 1222  cp part3/phonebook part4
+ 1223  cp -r part3/phonebook part4
+ 1224  ls
+ 1225  cd part4/phonebook
+ 1226  ls
+ 1227  mkdir utils
+ 1228  ls
+ 1229  mkdir controllers
+ 1230  touch app.js
+ 1231  touch utils/config.js
+ 1232  touch utils/logger.js
+ 1233  touch utils/middleware.js
+ 1234  cd ..
+ 1235  ls
+ 1236  npm init
+ 1237  ls
+ 1238  cd
+ 1239  cd De
+ 1240  cd Desktop
+ 1241  mkdir test
+ 1242  cd test
+ 1243  cd ..
+ 1244  mv test test-backend
+ 1245  cd test-backend
+ 1246  npm init
+ 1247  ls
+ 1248  cd
+ 1249  cd fullstack-open-2022
+ 1250  cd part4
+ 1251  ls
+ 1252  cd phonebook
+ 1253  \tl
+ 1254  clear
+ 1255  ls
+ 1256  clear
+ 1257  l
+ 1258  ls
+ 1259  pwd
+ 1260  cd ..
+ 1261  cd part4
+ 1262  ls
+ 1263  cd phonebook
+ 1264  ls
+ 1265  cp index.js index_app.js
+ 1266  npm run dev
+ 1267  git rm -r --cached / -f
+ 1268  git rm -r --cached . -f
+ 1269  cd ..
+ 1270  git rm -r --cached phonebook -f
+ 1271  git rm -r --cached phonebook/ -f
+ 1272  ls
+ 1273  git rm -r --cached /phonebook/ -f
+ 1274  cd phonebook
+ 1275  npm cache clean --force
+ 1276  npm run dev
+ 1277  npm install --save-dev nodemon
+ 1278  npm install express
+ 1279  npm run dev
+ 1280  ls
+ 1281  npm install nodemon
+ 1282  npm run dev
+ 1283  cd Desktop/part3
+ 1284  ls
+ 1285  cd phonebook
+ 1286  ls
+ 1287  cp -r node_modules ../../../fullstack-open-2022/part4/phonebook
+ 1288  npm run dev
+ 1289  ls
+ 1290  cp package.json ../../../fullstack-open-2022/part4/phonebook
+ 1291  npm run dev
+ 1292  nodemon
+ 1293  node nodemon
+ 1294  npm install -g nodemon
+ 1295  sudo npm install -g nodemon
+ 1296  npm run dev
+ 1297  npm start
+ 1298  cd ..
+ 1299  mkdir blog
+ 1300  cd blog
+ 1301  npm init
+ 1302  mkdir controllers
+ 1303  cd controllers
+ 1304  touch blog.js
+ 1305  cd ..
+ 1306  npm install express
+ 1307  npm install nodemon
+ 1308  npm install dotenv
+ 1309  npm start
+ 1310  touch .env
+ 1311  nano .env
+ 1312  npm start
+ 1313  ls
+ 1314  npm start
+ 1315  npm install cors
+ 1316  npm start
+ 1317  npm install dotenv
+ 1318  npm start
+ 1319  npm install mongoose
+ 1320  npm start
+ 1321  clear
+ 1322  npm start
+ 1323  npm install --save-dev jest
+ 1324  npm test
+ 1325  clear
+ 1326  npm test
+ 1327  clear
+ 1328  npm test
+ 1329  clear
+ 1330  npm test
+ 1331  clear
+ 1332  npm test
+ 1333  clear
+ 1334  npm test
+ 1335  clear
+ 1336  npm test
+ 1337  clear
+ 1338  npm test
+ 1339  clear
+ 1340  npm test
+ 1341  clear
+ 1342  npm test
+ 1343  clear
+ 1344  npm test
+ 1345  clear
+ 1346  npm test
+ 1347  clear
+ 1348  npm test
+ 1349  clear
+ 1350  npm test
+ 1351  clear
+ 1352  npm test
+ 1353  clear
+ 1354  npm test
+ 1355  clear
+ 1356  npm test
+ 1357  clear
+ 1358  npm test
+ 1359  clear
+ 1360  npm test
+ 1361  clear
+ 1362  npm test
+ 1363  clear
+ 1364  npm test
+ 1365  clear
+ 1366  npm test
+ 1367  clear
+ 1368  npm test
+ 1369  clear
+ 1370  npm test
+ 1371  clear
+ 1372  npm test
+ 1373  clear
+ 1374  npm test
+ 1375  clear
+ 1376  npm test
+ 1377  clear
+ 1378  npm test
+ 1379  clear
+ 1380  npm test
+ 1381  clear
+ 1382  npm test
+ 1383  clear
+ 1384  npm test
+ 1385  clear
+ 1386  npm test
+ 1387  clear
+ 1388  npm test
+ 1389  clear
+ 1390  npm test
+ 1391  clear
+ 1392  npm test
+ 1393  clea
+ 1394  clear
+ 1395  npm test
+ 1396  clear
+ 1397  npm test
+ 1398  clear
+ 1399  npm test
+ 1400  clear
+ 1401  npm test
+ 1402  clear
+ 1403  npm test
+ 1404  clear
+ 1405  npm test
+ 1406  clear
+ 1407  npm test
+ 1408  clear
+ 1409  npm test
+ 1410  clear
+ 1411  npm test
+ 1412  cd ..
+ 1413  cd phonebook
+ 1414  npm install --save-dev supertest
+ 1415  npm test
+ 1416  npm install --save-dev jest
+ 1417  npm test
+ 1418  clear
+ 1419  npm test
+ 1420  clear
+ 1421  npm test
+ 1422  clear
+ 1423  npm test
+ 1424  clear
+ 1425  npm test
+ 1426  clear
+ 1427  npm test
+ 1428  clea
+ 1429  clear
+ 1430  clea
+ 1431  npm test
+ 1432  clear
+ 1433  npm test
+ 1434  clear
+ 1435  npm test
+ 1436  cler
+ 1437  clear
+ 1438  npm test
+ 1439  clear
+ 1440  npm test
+ 1441  clear
+ 1442  npm test
+ 1443  clear
+ 1444  npm test
+ 1445  clear
+ 1446  npm test
+ 1447  clear
+ 1448  npm test
+ 1449  cd fullstack-open-2022/part4/blog
+ 1450  npm test
+ 1451  npm install --save-dev supertest
+ 1452  npm test
+ 1453  npm install dotenv
+ 1454  npm test
+ 1455  clear
+ 1456  npm test
+ 1457  npm install express-async-errors
+ 1458  clear
+ 1459  npm install express-async-errors
+ 1460  npm test
+ 1461  npm run dev
+ 1462  npm test
+ 1463  clear
+ 1464  npm test
+ 1465  clear
+ 1466  npm test
+ 1467  clear
+ 1468  npm test
+ 1469  npm run dev
+ 1470  clear
+ 1471  npm test
+ 1472  npm run dev
+ 1473  cler
+ 1474  clear
+ 1475  npm run dev
+ 1476  npm test
+ 1477  npm run dev
+ 1478  npm test
+ 1479  clear
+ 1480  npm run dev
+ 1481  npm test
+ 1482  clear
+ 1483  npm test
+ 1484  npm install bcrypt
+ 1485  npm run dev
+ 1486  npm test
+ 1487  clear
+ 1488  npm test
+ 1489  clear
+ 1490  ls
+ 1491  npm test -- tests/blog_api.test.js
+ 1492  clear
+ 1493  npm test -- tests/blog_api.test.js
+ 1494  clear
+ 1495  npm test -- tests/blog_api.test.js
+ 1496  npm run dev
+ 1497  npm test -- tests/user.test.js
+ 1498  npm run dev
+ 1499  npm test -- tests/user.test.js
+ 1500  npm run dev
+ 1501  clear
+ 1502  npm install jsonwebtoken
+ 1503  npm run dev
+ 1504  clear
+ 1505  npm run dev
+ 1506  npm test -- tests/user.test.js
+ 1507  npm test -- tests/user.test.jsclear
+ 1508  clear
+ 1509  npm test -- tests/user.test.js
+ 1510  clear
+ 1511  npm test -- tests/user.test.js
+ 1512  npm run dev
+ 1513  npm test -- tests/user.test.js
+ 1514  clear
+ 1515  npm test -- tests/user.test.js
+ 1516  clear
+ 1517  npm test -- tests/user.test.js
+ 1518  clear
+ 1519  npm test -- tests/user.test.js
+ 1520  clear
+ 1521  npm test -- tests/user.test.js
+ 1522  clear
+ 1523  npm test -- tests/user.test.js
+ 1524  clear
+ 1525  npm test -- tests/user.test.js
+ 1526  clear
+ 1527  npm test -- tests/user.test.js
+ 1528  clear
+ 1529  npm test -- tests/user.test.js
+ 1530  clear
+ 1531  npm test -- tests/user.test.js
+ 1532  clear
+ 1533  npm test -- tests/user.test.js
+ 1534  clear
+ 1535  npm test -- tests/user.test.js
+ 1536  clea
+ 1537  clear
+ 1538  npm test -- tests/user.test.js
+ 1539  clear
+ 1540  npm test -- tests/user.test.js
+ 1541  npm run dev
+ 1542  clear
+ 1543  npm run dev
+ 1544  npm test -- tests/user.test.js
+ 1545  npm run dev
+ 1546  npm test -- tests/user.test.js
+ 1547  npm run dev
+ 1548  clear
+ 1549  npm run dev
+ 1550  npm test -- tests/user.test.js
+ 1551  npm run dev
+ 1552  npm test -- tests/user.test.js
+ 1553  npm test -- tests/blog_api.test.js
+ 1554  clear
+ 1555  npm test -- tests/blog_api.test.js
+ 1556  npm run dev
+ 1557  clear
+ 1558  npm run dev
+ 1559  clear
+ 1560  npm run dev
+ 1561  clear
+ 1562  npm test -- tests/blog_api.test.js
+ 1563  clear
+ 1564  npm test -- tests/blog_api.test.js
+ 1565  clear
+ 1566  npm test -- tests/blog_api.test.js
+ 1567  npm run dev
+ 1568  npm test -- tests/blog_api.test.js
+ 1569  clear
+ 1570  npm test -- tests/blog_api.test.js
+ 1571  clear
+ 1572  npm test -- tests/blog_api.test.js
+ 1573  clear
+ 1574  npm test -- tests/blog_api.test.js
+ 1575  clear
+ 1576  npm test -- tests/blog_api.test.js
+ 1577  npm run dev
+ 1578  cd ..
+ 1579  ls
+ 1580  git add blog/
+ 1581  git commit
+ 1582  git push origin main
+ 1583  git rm -rf blog/node_modules/
+ 1584  git commit
+ 1585  git push origin main
+ 1586  git rm blog/.env
+ 1587  git commit
+ 1588  git push origin main
+ 1589  ls
+ 1590  cd blog
+ 1591  l
+ 1592  nano .gitignore
+ 1593  nano .env
+ 1594  cd ..
+ 1595  mkdir part5
+ 1596  ls
+ 1597  cd part5
+ 1598  mkdir part5-notes
+ 1599  cd part5-notes
+ 1600  git clone https://github.com/fullstack-hy2020/part2-notes.git
+ 1601  l
+ 1602  cd part2-notes
+ 1603  npm install
+ 1604  cd
+ 1605  cd part5-notes
+ 1606  npm start
+ 1607  start
+ 1608  react-scripts start
+ 1609  cd part2-notes
+ 1610  npm start
+ 1611  ls
+ 1612  cd src
+ 1613  ls
+ 1614  cd ..
+ 1615  ls
+ 1616  sudo rm -rf part2-notes
+ 1617  git clone https://github.com/fullstack-hy2020/part2-notes.git
+ 1618  cd part2-notes
+ 1619  ls
+ 1620  cd src
+ 1621  ls
+ 1622  cd ..
+ 1623  cd
+ 1624  cd part5-notes/
+ 1625  c part2-notes-part5-1
+ 1626  cd part2-notes-part5-1
+ 1627  npm install
+ 1628  npm start
+ 1629  cd
+ 1630  /Users/georgeroussos/Downloads/bloglist-frontend-main 
+ 1631  ls .git
+ 1632  ls .git*
+ 1633  rm -rf .git
+ 1634  rm -rf .gitignore
+ 1635  find . | grep "\.git/" | xargs rm -rf
+ 1636  find . | grep "**/**/.git/" | xargs rm -rf
+ 1637  find . | grep "**/**/*.git/" | xargs rm -rf
+ 1638  find . | grep "*/*/*.git/" | xargs rm -rf
+ 1639  rm -R .git/
+ 1640  find . | grep .git
+ 1641  cd
+ 1642  cd fullstack-open-2022/part5
+ 1643  l
+ 1644  ld
+ 1645  clear
+ 1646  l
+ 1647  clear
+ 1648  ls
+ 1649  cd blog-backend
+ 1650  npm start
+ 1651  npm run dev
+ 1652  npm install
+ 1653  npm run dev
+ 1654  cd
+ 1655  cd fullstack-open-2022
+ 1656  cd part5
+ 1657  ls
+ 1658  mv bloglist-frontend blog-frontend
+ 1659  ls
+ 1660  cd blog-frontend
+ 1661  npm install
+ 1662  npm audit fix
+ 1663  npm run
+ 1664  npm start
+ 1665  cd fullstack-open-2022/part5
+ 1666  ld
+ 1667  cd blog-frontend
+ 1668  nano .gitignore
+ 1669  cd ..
+ 1670  cd blog-backend
+ 1671  nano .gitignore
+ 1672  cd ..
+ 1673  npm install cors
+ 1674  npm start
+ 1675  npm install cors
+ 1676  ls
+ 1677  nano utils/middleware.js
+ 1678  ls
+ 1679  nano app.ks
+ 1680  nano app.js
+ 1681  npm start
+ 1682  nano app.js
+ 1683  nano utils/middleware.js
+ 1684  npm start
+ 1685  clear
+ 1686  npm start
+ 1687  clear
+ 1688  npm start
+ 1689  clear
+ 1690  npm start
+ 1691  npm install prop-types
+ 1692  npm install --save-dev eslint-plugin-jest
+ 1693  nano .eslintrc.js
+ 1694  nano .eslintignore
+ 1695  npm run eslint
+ 1696  clear
+ 1697  npm run eslint
+ 1698  clear
+ 1699  npm install --save-dev @testing-library/react @testing-library/jest-dom
+ 1700  CI=true npm test
+ 1701  clear
+ 1702  CI=true npm test
+ 1703  clear
+ 1704  CI=true npm test
+ 1705  clear
+ 1706  CI=true npm test
+ 1707  clear
+ 1708  CI=true npm test
+ 1709  ckear
+ 1710  clear
+ 1711  CI=true npm test
+ 1712  clear
+ 1713  CI=true npm test
+ 1714  clear
+ 1715  CI=true npm test
+ 1716  clear
+ 1717  CI=true npm test
+ 1718  clear
+ 1719  CI=true npm test
+ 1720  clear
+ 1721  CI=true npm test
+ 1722  clear
+ 1723  CI=true npm test
+ 1724  clear
+ 1725  CI=true npm test
+ 1726  npm install --save-dev @testing-library/user-event
+ 1727  CI=true npm test
+ 1728  clear
+ 1729  CI=true npm test
+ 1730  clear
+ 1731  CI=true npm test
+ 1732  clear
+ 1733  CI=true npm test
+ 1734  clear
+ 1735  npm start
+ 1736  clear
+ 1737  npm start
+ 1738  CI=true npm test
+ 1739  clear
+ 1740  CI=true npm test
+ 1741  npm install enzyme
+ 1742  CI=true npm test
+ 1743  clear
+ 1744  CI=true npm test
+ 1745  clear
+ 1746  CI=true npm test
+ 1747  clear
+ 1748  CI=true npm test
+ 1749  clear
+ 1750  CI=true npm test
+ 1751  npm install --save-dev cypress
+ 1752  npm start
+ 1753  cd fullstack-open-2022/part5
+ 1754  npm run cypress:open
+ 1755  cd blog-frontend
+ 1756  npm run cypress:open
+ 1757  ls
+ 1758  less .gitignore
+ 1759  cd ..
+ 1760  ls
+ 1761  cd ..
+ 1762  git add part5/
+ 1763  git commit
+ 1764  git push origin main
+ 1765  cd ..
+ 1766  cd fullstack-open-2022
+ 1767  mkdir part6
+ 1768  cd part6
+ 1769  npx create-react-app counter
+ 1770  npm install redu
+ 1771  npm install redux
+ 1772  npm start
+ 1773  cd counter
+ 1774  npm start
+ 1775  npm install deep-freeze
+ 1776  npm start
+ 1777  cd ..
+ 1778  git clone https://github.com/fullstack-hy2020/unicafe-redux.git
+ 1779  cd unicafe-redux
+ 1780  rm -rf .git
+ 1781  npm install
+ 1782  npm test
+ 1783  CI=true npm test
+ 1784  clear
+ 1785  CI=true npm test
+ 1786  clear
+ 1787  CI=true npm test
+ 1788  clear
+ 1789  CI=true npm test
+ 1790  clear
+ 1791  CI=true npm test
+ 1792  npm start
+ 1793  npm install react-redux
+ 1794  ψδ ..
+ 1795  cd ..
+ 1796  git clone https://github.com/fullstack-hy2020/redux-notes.git
+ 1797  cd redux-notes
+ 1798  rm -rf .git
+ 1799  npm install
+ 1800  cd ..
+ 1801  git clone https://github.com/fullstack-hy2020/redux-anecdotes.git
+ 1802  cd redux-
+ 1803  cd redux-anecdotes
+ 1804  rm -rf .git
+ 1805  npm install
+ 1806  npm start
+ 1807  clear
+ 1808  npm install @reduxjs/toolkit
+ 1809  npm start
+ 1810  npm install json-server --save-dev
+ 1811  ls
+ 1812  cd src
+ 1813  ls
+ 1814  cd ..
+ 1815  nano db.json
+ 1816  npm install axios
+ 1817  cd fullstack-open-2022
+ 1818  ls
+ 1819  cd part6
+ 1820  npm json-server
+ 1821  npm run server
+ 1822  l
+ 1823  ls
+ 1824  cd redux-anecdotes
+ 1825  ls
+ 1826  rm db.json
+ 1827  nano db.json
+ 1828  npm run server
+ 1829  npm start
+ 1830  cd fullstack-open-2022/part6
+ 1831  ls
+ 1832  cd redux-anecdotes
+ 1833  mv -r services src/
+ 1834  ls
+ 1835  npm install redux-thunk
+ 1836  ls
+ 1837  npm run server
+ 1838  clear
+ 1839  npm run server
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  cd redux-
+ 1844  cd redux-anecdotes
+ 1845  ls
+ 1846  nano .gitignore
+ 1847  cp .gitignore ../unicafe-redux
+ 1848  cd ..
+ 1849  git add part6/unicafe-redux/
+ 1850  git add part6/redux-anecdotes/
+ 1851  git commit
+ 1852  git push origin main
+ 1853  cd Downloads
+ 1854  cd gauguin_global_images_V12.5.5.0.RJSMIXM_20211213.0000.00_11.0_global
+ 1855  ./flash_all_lock.sh
+ 1856  cd ..
+ 1857  ojava -jar XiaomiADBFastbootTools.jar
+ 1858  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+ 1859  ojava -jar XiaomiADBFastbootTools.jar
+ 1860  cd ..
+ 1861  ls
+ 1862  mkdir part7
+ 1863  cd part7
+ 1864  npx create-react-app views
+ 1865  cd views
+ 1866  npm install react-router-dom
+ 1867  cd ..
+ 1868  git clone https://github.com/fullstack-hy2020/routed-anecdotes
+ 1869  cd routed-anecdotes
+ 1870  rm -rf .git
+ 1871  npm install
+ 1872  npm start
+ 1873  npm install react-router-dom
+ 1874  npm start
+ 1875  cd Downloads
+ 1876  ls
+ 1877  cd gauguin_global_images_V12.5.5.0.RJSMIXM_20211213.0000.00_11.0_global
+ 1878  ./flash_all_except_storage.sh
+ 1879  cd ..
+ 1880  ls
+ 1881  cd gauguin_eea_global_images_V12.5.9.0.RJSEUXM_20211215.0000.00_11.0_eea
+ 1882  ls
+ 1883  ./flash_all.sh
+ 1884  cd Desktop
+ 1885  fastboot boot PixelExperience_gauguin-12.0-20220222-1158-OFFICIAL.img
+ 1886  l
+ 1887  ls
+ 1888  cd
+ 1889  cd Downloads
+ 1890  alias ojava="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java"
+ 1891  ojava -jar XiaomiADBFastbootTools.jar
+ 1892  cd ...
+ 1893  cd part7
+ 1894  ls
+ 1895  git clone https://github.com/fullstack-hy2020/country-hook.git
+ 1896  cd country-hook
+ 1897  rm -rf .git
+ 1898  npm install
+ 1899  npm start
+ 1900  cd ..
+ 1901  git clone https://github.com/fullstack-hy2020/ultimate-hooks.git
+ 1902  cd ultimate-hooks
+ 1903  rm -rf .git
+ 1904  npm install
+ 1905  npm start
+ 1906  cd fullstack-open-2022/part7
+ 1907  cd ultimate-hooks
